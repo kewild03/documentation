@@ -42,6 +42,9 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
    sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
    yum -y install jenkins
    ```
+## Install Jenkins on Ubuntu
+Follow Instruction on the link bellow
+https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 
    ### Start Jenkins
    ```sh
